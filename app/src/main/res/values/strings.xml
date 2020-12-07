@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="title_activity_district">DistrictActivity</string>
+    <string name="title_activity_second_district">SecondDistrictActivity</string>
+</resources>
